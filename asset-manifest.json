@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Basic_Scientific_Calculator/static/css/main.9a85e586.css",
+    "main.js": "/Basic_Scientific_Calculator/static/js/main.36f2ffcd.js",
+    "static/js/453.aeca3443.chunk.js": "/Basic_Scientific_Calculator/static/js/453.aeca3443.chunk.js",
+    "index.html": "/Basic_Scientific_Calculator/index.html",
+    "main.9a85e586.css.map": "/Basic_Scientific_Calculator/static/css/main.9a85e586.css.map",
+    "main.36f2ffcd.js.map": "/Basic_Scientific_Calculator/static/js/main.36f2ffcd.js.map",
+    "453.aeca3443.chunk.js.map": "/Basic_Scientific_Calculator/static/js/453.aeca3443.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a85e586.css",
+    "static/js/main.36f2ffcd.js"
+  ]
+}
